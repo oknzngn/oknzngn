@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Okan</h1>
 <h3 align="center">I am Computer Engineer and developing applications with Spring.</h3>
 
-- 💻 I’m currently Backend Developer @ [Hotech](https://hotech.com.tr)
+- 💻 I’m currently Service Reliability Engineer @ [KocDigital](https://kocdigital.com)
 
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=oknzngn&theme=blue-green)-->
